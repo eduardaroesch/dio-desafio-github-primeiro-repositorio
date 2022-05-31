@@ -1,0 +1,12 @@
+Links e Informações importantes sobre o curso
+
+CONJUNTO DE COMANDOS BÁSICOS
+- cd
+- dir
+- mkdir
+- del / rmdir
+
+GIT
+É uma forma curta de representar um arquivo. Apresenta uma chave de 40 caracteres. 
+Para abrir Git Bash – tela inicial, clica com o botão direito do mause (git bash here).
+Quando o arquivo é modificado de alguma forma, ele cria outra chave. Se o arquivo for salvo inteiramente como estava antes, ele mostrará uma chave igual.
